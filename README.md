@@ -1,2 +1,2 @@
 # web_
-# Created a website using django web framework
+# Created a blog application using django web framework
